@@ -5,7 +5,7 @@ import LinenShirts from '../../assets/LinenShirt.png'
 
 export default function NoOfCustomers() {
     return (
-        <section className="text-gray-600 body-font">
+        <section className="text-gray-600 body-font px-20">
             <div className="container px-5 py-1 mx-auto flex flex-wrap">
                 <div className="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-1/2 sm:w-2/3 content-start sm:pr-10">
                     <div className="w-full sm:p-4 px-4 mb-6">
